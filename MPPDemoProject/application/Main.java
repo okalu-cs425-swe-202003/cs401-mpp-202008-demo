@@ -17,6 +17,7 @@ public class Main extends Application {
 			primaryStage.setScene(scene);
 			System.out.println("Changes by somebody from #113..");			
 			System.out.println("Changes by somebody from #115..");
+			System.out.println("Changes by somebody from #113..");
 			
 			System.out.println("hardcoded config: --module-path \"C:/Java/javafx-sdk-14.0.2.1/lib/\" --add-modules javafx.controls,javafx.fxml");
 
